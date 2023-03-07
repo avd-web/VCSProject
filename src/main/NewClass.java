@@ -8,6 +8,7 @@ public class NewClass {
         System.out.println("test push");
         System.out.println("test commit 5 without push");
         System.out.println("conflict");
+        System.out.println("test new branch");
     }
 
 }
