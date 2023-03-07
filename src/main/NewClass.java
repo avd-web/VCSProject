@@ -5,6 +5,7 @@ public class NewClass {
 
         System.out.println("test NewClass class");
         System.out.println("test commit");
+        System.out.println("test push");
     }
 
 }
